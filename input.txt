@@ -1,0 +1,9 @@
+Array Original: [Ana, Beto, Carlos, Diana]
+
+Após a Troca (0 <-> 3): [Diana, Beto, Carlos, Ana]
+Diana
+Beto
+Carlos
+Ana
+
+Teste Pesquisa: O elemento 'Beto' foi encontrado.
